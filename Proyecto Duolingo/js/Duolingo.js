@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
 
     let header=document.createElement('header')
-
     let navContent = ` <div class="Container-Encabezado">
                             <nav class="Div-Encabezado">
                                 <img src="svg/banner.svg" alt="" width="180px" height="45px">
